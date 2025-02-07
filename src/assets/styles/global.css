@@ -14,3 +14,11 @@
 .btn {
    margin: 10px 0;
 }
+
+
+/* CurrencyExchange.jsx */
+.exchage__selections {
+   display: flex;
+   flex-direction: column;
+   gap: 15px;
+}
